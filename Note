@@ -10,7 +10,8 @@
 // This file is used for description
 Date: 190903
 DescriptionL
-	1. Change solver to reactingEbullatingFoam7
+	1. Change solver to reactingEbullatingFoam7.
+	2. Revised continuous phase for kinematicCloudProperties: alpha.fluid.
 
 Date: 190719
 Description:
